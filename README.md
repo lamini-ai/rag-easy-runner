@@ -63,7 +63,7 @@ cd RAG
 5. Run an example on a question you want to ask about your data
 
 ```bash
-./example.sh --query "Who won the case above?"
+./example.sh --query "Who represented the State of Louisiana in flowers vs rausch case?"
 ```
 
 # What is Lamini doing under the hood with `RetrievalAugmentedRunner`?
@@ -71,7 +71,7 @@ cd RAG
 Let's look inside `RetrievalAugmentedRunner`:
 1. `llm.load_data` - Loads data using our directory-loader. It loads all the text readable files from the `data` repository and splits them into batches for faster indexing.
 2. `llm.train` - Generates embeddings using Lamini and indexes the loaded data using Lamini Index powered by [faiss](https://faiss.ai). 
-3. `llm("Who won the case")` - Runs our query engine. Retrieves the top k documents for a given query, appends them to the query and runs inference on the LLM on the new query.
+3. `llm("Who won the flowers vs rausch case?")` - Runs our query engine. Retrieves the top k documents for a given query, appends them to the query and runs inference on the LLM on the new query.
 
 If you are interested in diving deeper into these tools, here's how we implement it in python:
 
