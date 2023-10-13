@@ -7,7 +7,7 @@ We make it super easy and effective on any open-source model.
 ```python
 from lamini import RetrievalAugmentedRunner
 
-llm = RetrievalAugmentedRunner(model_name = "meta-llama/Llama-2-13b-chat-hf")
+llm = RetrievalAugmentedRunner()
 llm.load_data("data")
 llm.train()
 response = llm("Who won the case above about dana and wells fargo?")
@@ -22,6 +22,11 @@ in the foreclosure action brought against them by Wells Fargo.
 Run it yourself, change the query:
 ```bash
 ./example.sh --query "Who won the case above about dana and wells fargo?"
+```
+
+Change the model (any open source model, just use the HuggingFace path!)
+```python
+llm = RetrievalAugmentedRunner(model_name="meta-llama/Llama-2-13b-chat-hf")
 ```
 
 ## Overview
