@@ -69,9 +69,9 @@ cd RAG
 # What is Lamini doing inside Retrieval-Augmented Runner? What's going on under the hood?
 
 Inside Retrieval-Augmented Runner:
-1. llm.load_data - Loads data using our directory-loader. It loads all the text readable files from the `data` repository and splits them into batches for faster indexing.
-2. llm.train - Generates embeddings using Lamini and indexes the loaded data using Lamini Index powered by [faiss](https://faiss.ai). 
-3. llm("Who won the case") - Runs our query engine. Retrieves the top k documents for a given query, appends them to the query and runs inference on the LLM on the new query.
+1. `llm.load_data` - Loads data using our directory-loader. It loads all the text readable files from the `data` repository and splits them into batches for faster indexing.
+2. `llm.train` - Generates embeddings using Lamini and indexes the loaded data using Lamini Index powered by [faiss](https://faiss.ai). 
+3. `llm("Who won the case")` - Runs our query engine. Retrieves the top k documents for a given query, appends them to the query and runs inference on the LLM on the new query.
 
 If you are interested in diving deeper into these tools, it's python implementation is as follows:
 
