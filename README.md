@@ -10,12 +10,13 @@ from lamini import RetrievalAugmentedRunner
 llm = RetrievalAugmentedRunner()
 llm.load_data("data")
 llm.train()
-response = llm("Who won the case above about dana and wells fargo?")
 ```
 
 Here's the response:
 ```
-The court ruled in favor of Dana and Linda Phillabaum, the defendants and appellees,
+llm("Who won the case above about dana and wells fargo?")
+
+>> The court ruled in favor of Dana and Linda Phillabaum, the defendants and appellees,
 in the foreclosure action brought against them by Wells Fargo.
 ```
 
