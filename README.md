@@ -8,7 +8,7 @@ We make it super easy and effective on any open-source model.
 from lamini import RetrievalAugmentedRunner
 
 llm = RetrievalAugmentedRunner()
-llm.load_data("data")
+llm.load_data("data/")
 llm.train()
 ```
 
