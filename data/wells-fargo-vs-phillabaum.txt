@@ -1,0 +1,280 @@
+[Cite as Wells Fargo v. Phillabaum, 192 Ohio App. 3d 712,, 2011-Ohio-1311.]
+
+
+
+
+ IN THE COURT OF APPEALS OF OHIO
+ FOURTH APPELLATE DISTRICT
+ HIGHLAND COUNTY
+
+
+WELLS FARGO,
+ :
+ Appellant, Case No. 10CA10
+
+ v. :
+
+PHILLABAUM et al., : DECISION AND JUDGMENT ENTRY
+
+ Appellees. :
+
+_________________________________________________________________
+
+ APPEARANCES:
+
+Lerner, Sampson & Rothfuss, L.P.A., and Deanna C. Stoutenborough, for appellant.
+
+Legal Aid Society of Southwest Ohio, L.L.C., Noel M. Morgan, and Carrie Dettmer Slye, for
+appellees.
+_________________________________________________________________
+CIVIL APPEAL FROM COMMON PLEAS COURT
+DATE JOURNALIZED: 3-16-11
+
+ ABELE, Judge.
+
+ {¶ 1} This is an appeal from a Highland County Common Pleas Court summary
+
+judgment in favor of Dana and Linda Phillabaum, defendants below and appellees herein, on the
+
+foreclosure action brought against them by Wells Fargo (“Bank”), plaintiff below and appellant
+
+herein.
+
+ {¶ 2} Appellant assigns the following error for review:
+
+ The trial court erred in denying plaintiff-appellant, Wells Fargo Bank,
+ N.A.’s motion for summary judgment and in granting defendant-appellant,
+ Dana Phillabaum’s motion for summary judgment.
+
+HIGHLAND, 10CA10 2
+
+
+ {¶ 3} On September 23, 2005, appellee Dana Phillabaum purchased a home.
+
+Phillabaum executed a $89,528 promissory note with a 6¼ percent interest rate payable in monthly
+
+installments for 30 years, and a mortgage as security on that loan. 1 He and appellee Linda
+
+Ferguson (n.k.a. Linda Phillabaum) subsequently married. In late 2008, both lost their jobs and
+
+were sent into default.
+
+ {¶ 4} Appellant commenced the instant action on August 3, 2009, and requested that the
+
+principal balance of the loan be accelerated and the mortgage foreclosed. Both parties eventually
+
+requested summary judgment.
+
+ {¶ 5} The dispositive issue in the case sub judice is whether the bank complied with
+
+federal regulations, promulgated by the Department of Housing and Urban Development
+
+(“HUD”), prior to pursuing foreclosure. In the end, the trial court found that it had not and ruled
+
+in favor of the appellees. This appeal followed.
+
+ {¶ 6} In its sole assignment of error, the bank asserts that the trial court erred by denying
+
+its Civ.R. 56(C) motion and by granting summary judgment to the appellees. We disagree with
+
+appellant.
+
+ {¶ 7} Before we turn to the merits of the assignment of error, we first pause to address the
+
+appropriate standard of review. Appellate courts review summary judgments de novo. See
+
+Broadnax v. Greene Credit Serv. (1997), 118 Ohio App. 3d 881, 887, 694 N.E.2d 167; Coventry
+
+Twp. v. Ecker (1995), 101 Ohio App. 3d 38, 41, 654 N.E.2d 1327. In other words, we afford no
+
+deference whatsoever to a trial court's decision; Hicks v. Leffler (1997), 119 Ohio App. 3d 424,
+
+
+ 1
+ Appellant was not the original lender, but rather an assignee.
+
+HIGHLAND, 10CA10 3
+
+427, 695 N.E.2d 777; Dillon v. Med. Ctr. Hosp. (1993), 98 Ohio App. 3d 510, 514-515, 648 N.E.2d
+
+1375. Instead, we conduct our own independent review to determine whether summary judgment
+
+is appropriate. Woods v. Dutta (1997), 119 Ohio App. 3d 228, 233-234, 695 N.E.2d 18; Phillips v.
+
+Rayburn (1996), 113 Ohio App. 3d 374, 377, 680 N.E.2d 1279.
+
+ {¶ 8} Summary judgment under Civ.R. 56(C) is appropriate when a movant shows that
+
+(1) no genuine issues of material fact exist, (2) he is entitled to judgment as a matter of law, and (3)
+
+after the evidence is construed most strongly in favor of the nonmovant, reasonable minds can
+
+come to one conclusion, and that conclusion is adverse to the nonmoving party. Zivich v. Mentor
+
+Soccer Club, Inc. (1998), 82 Ohio St. 3d 367, 369-370, 696 N.E.2d 201; Mootispaw v. Eckstein
+
+(1996), 76 Ohio St. 3d 383, 385, 667 N.E.2d 1197. The moving party bears the initial burden to
+
+show that no genuine issue of material fact exists and that he is entitled to judgment as a matter of
+
+law. Vahila v. Hall (1997), 77 Ohio St. 3d 421, 429, 674 N.E.2d 1164; Dresher v. Burt (1996), 75
+
+Ohio St. 3d 280, 293, 662 N.E.2d 264. If that burden is met, the onus then shifts to the nonmoving
+
+party to provide rebuttal evidentiary materials. See Trout v. Parker (1991), 72 Ohio App. 3d 720,
+
+723, 595 N.E.2d 1015; Campco Distribs., Inc. v. Fries (1987), 42 Ohio App. 3d 200, 201, 537
+
+N.E.2d 661. Additionally, to the extent that this case turns on the interpretation of federal
+
+regulations, these are legal issues to which we also apply de novo review. See generally Howell v.
+
+Ohio Dept. of Job & Family Servs., Belmont App. No. 08BE25, 2009-Ohio-1510, at ¶ 29; Dawson
+
+v. Williamsburg of Cincinnati Mgt. Co. (Feb. 4, 2000), Hamilton App. No. C-981022 (cases
+
+applying principle to interpretation of the Ohio Administrative Code). With these principles in
+
+mind, we turn our attention to the case sub judice.
+
+ {¶ 9} As we mentioned above, the dispositive issue is whether the bank complied with all
+
+HIGHLAND, 10CA10 4
+
+pertinent HUD regulations before it initiated the foreclosure process. After our review, we agree
+
+with the trial court that it did not.
+
+ {¶ 10} The acceleration clause of the note that the appellee executed states:
+
+ If [b]orrower defaults by failing to pay in full any monthly payment, then
+ [l]ender may, except as limited by regulations of the Secretary in the case of
+ payment defaults, require immediate payment in full of the principal balance
+ remaining due and all accrued interest.
+
+(Emphasis added.)2
+
+ {¶ 11} Both parties agree that the pertinent federal regulation at issue is set out in Title 24,
+
+C.F.R. 203.604(b), and requires a “face-to-face” interview between a mortgagor and mortgagee
+
+before three full monthly installments on the mortgage are unpaid. Here, there is no dispute that
+
+the bank did not conduct such a meeting. Instead, the bank argues that it falls under an exception
+
+to that requirement because the “mortgaged property is not within 200 miles of the mortgagee, its
+
+servicer, or a branch office of either[.]” (Emphasis added.) 24 C.F.R. 203.604(C). However,
+
+appellee’s affidavit in support of his cross-motion for summary judgment states, “Wells Fargo has
+
+at least one branch office within 200 miles of my home” and asserts that he has visited that office at
+
+least once. This evidence is sufficient for appellee to carry his initial Civ.R. 56(C) burden, and
+
+thus, the burden shifted to the bank to provide rebuttal materials.
+
+ {¶ 12} The bank countered that the branch that appellee identified is simply a regular bank
+
+branch. It cited the HUD website (under “Frequently Asked Questions”) where “branch” was
+
+qualified to mean a mortgage “servicing” office. The bank argued that the nearest “servicing
+
+center” is in Frederick, Maryland, over 200 miles away, thus bringing Wells Fargo within the
+
+regulatory exception to the face-to-face meeting requirement.
+ 2
+ The term “Secretary” is thereafter defined to mean “the Secretary of Housing and Urban Development.”
+
+HIGHLAND, 10CA10 5
+
+ {¶ 13} First, even if we accept the bank’s interpretation of the regulation, we point out that
+
+this argument was raised in its reply memorandum, and we find nothing in the way of Civ.R. 56(C)
+
+evidentiary materials to establish that (1) there are no mortgage servicing personnel at the branch
+
+in Hamilton County or (2) the closest servicing center is in Maryland. The only affidavit that the
+
+bank submitted is attached to its original summary judgment motion, and it merely established
+
+default and the amount due and owing under the note. Absent some Civ.R. 56(C) evidentiary
+
+materials to support its claims regarding the Hamilton County branch, the bank has not carried its
+
+burden of rebuttal.3
+
+ {¶ 14} Second, aside from failing to carry its burden of rebuttal, we also agree with the
+
+trial court that the bank’s argument is not particularly persuasive. The exception that the bank
+
+claims to fall under excuses the face-to-face meeting only if a “mortgagee, its servicer, or a branch
+
+office of either” is not within 200 miles of the property. (Emphasis added.) See 24 C.F.R.
+
+203.604(c). Here, the trial court aptly noted that this language is phrased in the disjunctive,
+
+meaning that there must be neither a “servicer” branch nor a "mortgagee" branch within 200 miles
+
+of the property. Construing a “mortgagee” branch to mean a “servicing” center seems redundant
+
+to the reference to “servicer” earlier in that very same sentence. There is no dispute that the
+
+mortgagee in this case is Wells Fargo. Therefore, a plain reading of this subsection suggests that
+
+the exception applies only if there is no branch of Wells Fargo within 200 miles. This court has
+
+repeatedly held that statutes mean what they say. See, e.g., State v. McPherson (2001), 142 Ohio
+
+App.3d 274, 280, 755 N.E.2d 426; State ex rel. Athens Cty. Child Support Enforcement Agency v.
+
+Patel, Athens App. No. 05CA20, 2006-Ohio-2951, at ¶ 20. We see no reason to apply a different
+
+ 3
+ The bank also argues that the HUD handbook supports its interpretation of the word “branch.” We reject
+that argument for the same reason (lack of evidentiary materials) and because it was raised for the first time on appeal.
+
+HIGHLAND, 10CA10 6
+
+standard simply because the issue here is a federal regulation rather than an Ohio statute.
+
+ {¶ 15} We also point out that our First Appellate District colleagues recently came to the
+
+same conclusion on this issue. See Wells Fargo Bank, N.A. v. Isaacs, Hamilton App. No.
+
+C-100111, 2010-Ohio-5811, at ¶ 10. Our decision is also consistent with a Second District Court
+
+of Appeals decision. See Washington Mut. Bank v. Mahaffey, 154 Ohio App. 3d 44,
+
+2003-Ohio-4422,796 N.E.2d 39, at ¶ 26.4 Although not explicitly addressing the HUD website’s
+
+construction of “branch,” the court nevertheless rejected the bank’s argument that a branch in
+
+Louisville, Kentucky excepted it from the 200-mile requirement simply because that branch did
+
+not “service” mortgage loans.
+
+ {¶ 16} If HUD desires to construe the word “branch” differently from its plain meaning, it
+
+can amend its regulation. Until directed otherwise, however, we will give those words their plain
+
+meaning. We also emphasize, as the trial court aptly noted, that nothing prohibits the bank from
+
+again seeking foreclosure once it complies with the regulation.
+
+ {¶ 17} Accordingly, based upon the reasons discussed above, we hereby overrule
+
+appellant's assignment of error and affirm the trial court's judgment.
+
+ Judgment affirmed.
+
+ HARSHA, P.J., and MCFARLAND, J., concur.
+
+
+
+
+ 4
+ One federal district court came to the same conclusion and declined to interpret the word “branch” in light
+of what was said on HUD’s website. The court noted that “branch” is an unambiguous term and should be construed as
+it is used in common parlance. See Kersey v. PHH Mtge. Corp. (E.D.Va.2010), 682 F. Supp. 2d 588, 602-605. This
+opinion was later vacated, but it is unclear why.
