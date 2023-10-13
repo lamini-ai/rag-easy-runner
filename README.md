@@ -2,6 +2,28 @@
 
 RAG is an AI framework designed to extract factual information from external knowledge bases. It is used to provide large language models (LLMs) with context about your query by retrieving relevant information from your data.
 
+We make it super easy and effective on any open-source model.
+
+```python
+from lamini import RetrievalAugmentedRunner
+
+llm = RetrievalAugmentedRunner(model_name = "meta-llama/Llama-2-13b-chat-hf")
+llm.load_data("data")
+llm.train()
+response = llm("Who won the case above about dana and wells fargo?")
+```
+
+Here's the response:
+```
+The court ruled in favor of Dana and Linda Phillabaum, the defendants and appellees,
+in the foreclosure action brought against them by Wells Fargo.
+```
+
+Run it yourself, change the query:
+```bash
+./example.sh --query "Who won the case above about dana and wells fargo?"
+```
+
 ## Overview
 
 RAG, short for "Retrieval Augmented Generation," is designed to seamlessly integrate data retrieval and content generation. It operates in three key components:
@@ -38,42 +60,7 @@ cd RAG
 ./example.sh --query "Who won the case above?"
 ```
 
-# Answer questions using a Lamini and RAG
-
-## Python
-
-```python
-from lamini import RetrievalAugmentedRunner
-
-llm = RetrievalAugmentedRunner(
-    model_name = "meta-llama/Llama-2-13b-chat-hf",
-)
-llm.load_data("data")
-llm.train()
-response = llm("Who won the case above about dana and wells fargo?")
-
-```
-
-Rag-Model Response:
-```
-The court ruled in favor of Dana and Linda Phillabaum, the defendants and appellees,
-in the foreclosure action brought against them by Wells Fargo.
-```
-
-This code is also preset in `rag.py`. You can run it using 
-```bash
-python rag.py
-```
-
-# Use command line tools
-
-To ask a new question to the RAG-backed LLM, you can run the following command:
-
-```bash
-./example.sh --query "Who won the case above?"
-```
-
-# What is Lamini doing inside Retrieval-Augmented Runner?
+# What is Lamini doing inside Retrieval-Augmented Runner? What's going on under the hood?
 
 Inside Retrieval-Augmented Runner:
 1. llm.load_data - Loads data using our directory-loader. It loads all the text readable files from the `data` repository and splits them into batches for faster indexing.
