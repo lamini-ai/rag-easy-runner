@@ -73,4 +73,29 @@ To ask a new question to the RAG-backed LLM, you can run the following command:
 ./example.sh --query "Who won the case above?"
 ```
 
+# What is Lamini doing inside Retrieval-Augmented Runner?
+
+Inside Retrieval-Augmented Runner:
+1. llm.load_data - Loads data using our directory-loader. It loads all the text readable files from the `data` repository and splits them into batches for faster indexing.
+2. llm.train - Generates embeddings using Lamini and indexes the loaded data using Lamini Index powered by [faiss](https://faiss.ai). 
+3. llm("Who won the case") - Runs our query engine. Retrieves the top k documents for a given query, appends them to the query and runs inference on the LLM on the new query.
+
+If you are interested in diving deeper into these tools, it's python implementation is as follows:
+
+```python
+from lamini import DirectoryLoader, LaminiIndex, QueryEngine
+
+loader = DirectoryLoader("data")
+index = LaminiIndex(loader)
+engine = QueryEngine(index)
+
+response = engine.answer_question("Who won the case above about dana and wells fargo?")
+
+```
+This code is in `RAG/rag-deeper.py` script using the following command:
+
+```bash
+python RAG/rag-deeper.py
+```
+
 Thank you for choosing the Lamini's RAG, a powerful tool to enhance content generation and data retrieval to design a ChatGPT for your data.
